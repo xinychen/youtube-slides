@@ -2,7 +2,7 @@
 
 **Matrix Computations**
 
-- 🦉 [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/eiY3A_h8VdA) [[Slides](https://xinychen.github.io/youtube/psd.pdf)] What is Positive Semidefinite Ordering? A Geometric Interpretation with Ellipsoids
+- 🦉 [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/eiY3A_h8VdA) [[Slides](https://xinychen.github.io/youtube/psd.pdf)] What Is Positive Semidefinite Ordering? A Geometric Interpretation with Ellipsoids
 - 🦉 [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/FXJI2ydQzCY) [[Slides](https://xinychen.github.io/youtube/pdmat.pdf)] The geometry of quadratic functions
 - 🦉 [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/PIAx5dk72Cw) [[Slides](https://xinychen.github.io/youtube/covar.pdf)] Why Does Eigenvalue Decomposition Define the Shape of Multivariate Gaussian?
 - 🦉 [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/gTenlLfFFDo) [[Slides](https://xinychen.github.io/youtube/mahalanobis.pdf)] The Geometry of Mahalanobis Distance
@@ -20,9 +20,9 @@
 
 **Mathematical Programming**
 
-- 🦉 [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/Wt8oSh26BY8) [[Slides](https://xinychen.github.io/youtube/linprog.pdf)] Linear programming for beginners
-- 🦉 [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/yuGaGCoEP9E) [[Slides](https://xinychen.github.io/youtube/quadprog.pdf)] Quadratic programming for beginners
-- 🦉 [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/HCaT9PT16i4) [[Slides](https://xinychen.github.io/youtube/miqp.pdf)] Mixed-integer quadratic programming for beginners
+- 🦉 [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/Wt8oSh26BY8) [[Slides](https://xinychen.github.io/youtube/linprog.pdf)] Linear Programming for Beginners
+- 🦉 [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/yuGaGCoEP9E) [[Slides](https://xinychen.github.io/youtube/quadprog.pdf)] Quadratic Programming for Beginners
+- 🦉 [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/HCaT9PT16i4) [[Slides](https://xinychen.github.io/youtube/miqp.pdf)] Mixed-Integer Quadratic Programming for Beginners
 - 🦉 [![YouTube](https://img.shields.io/badge/YouTube-FF0000)](https://youtu.be/zOjOcnfsnQA) [[Slides](https://xinychen.github.io/youtube/ellone.pdf)] Solving Piecewise Linear Regression with Binary Search & Linear Programming
 
 <br>
