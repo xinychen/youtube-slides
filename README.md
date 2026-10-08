@@ -1,13 +1,5 @@
 # YouTube Channel
 
-<p align="center">
-  <a href="https://youtu.be/KmPgR3Ns0aI">
-    <img src="https://youtube-cards.vercel.app/vi/KmPgR3Ns0aI/0.jpg" width="48%" alt="Video 1" />
-  </a>
-  <a href="https://youtu.be/PIAx5dk72Cw">
-    <img src="https://youtube-cards.vercel.app/vi/PIAx5dk72Cw/0.jpg" width="48%" alt="Video 2" />
-  </a>
-</p>
 
 <br>
 
